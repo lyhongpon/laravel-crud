@@ -1,0 +1,21 @@
+{
+    "name": "lyhong/laravel-crud",
+    "description": "Crud for laravel base on Service and Repository",
+    "type": "library",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Lyhong\\LaravelCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PON Lyhong",
+            "email": "lyhong.pon@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.1.6"
+    }
+}
