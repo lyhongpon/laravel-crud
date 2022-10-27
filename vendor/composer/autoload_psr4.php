@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Lyhong\\LaravelCrud\\' => array($baseDir . '/src'),
+    'APPA\\Crud\\' => array($baseDir . '/src'),
 );

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Libraries\Crud;
+namespace APPA\Crud;
 
 use Illuminate\Contracts\Pagination\LengthAwarePaginator;
 use Illuminate\Database\Eloquent\Builder;

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Libraries\Crud;
+namespace APPA\Crud;
 
 trait UuidPrimaryKey
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Libraries\Crud;
+namespace APPA\Crud;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
